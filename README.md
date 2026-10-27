@@ -1,2 +1,4 @@
-# OSABi
-The Bible, spoken to the world — on hardware anyone can build. Open-source audio Bible player: schematics, firmware, and design files for free, offline Scripture access everywhere.
+# OSABi — Open Source Audio Bible
+
+> **The Bible for every ear — made possible by every person.**
+> *Open-source audio Bible player · currently in progress*
