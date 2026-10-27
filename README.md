@@ -69,3 +69,26 @@ To view a copy of this license, visit
 http://creativecommons.org/licenses/by-nd/4.0/
 or send a letter to Creative Commons, PO Box 1866,
 Mountain View, CA 94042, USA.
+
+## Contact
+
+Questions, partnership proposals, or found a problem? [Open an issue](../../issues) —
+it's the fastest way to reach us.
+
+## Contributing
+
+OSABi is early — the parts are on the bench and the first build is starting.
+Ways to help:
+
+- 🌐 **Translation organizations** — Wycliffe, Bible Societies, Faith Comes
+  By Hearing, and others: we're documenting the OSABi file format so you can
+  generate OSABi-ready Bibles in the languages you already serve. Get in
+  touch via the issues tab.
+- 🔧 **Builders & engineers** — help refine the hardware, firmware, and
+  build process so *anyone* can assemble a unit with basic tools.
+- 🧪 **Future testers** — sign up for when v1 is ready to be built and
+  field-tested.
+- ⭐ **Everyone** — star the repo and share it. Awareness becomes hardware.
+
+By contributing, you join LOL Missions in holding to the 66-book Protestant
+canon as described in Content & Canon.
